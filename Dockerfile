@@ -14,7 +14,7 @@ RUN sudo apt update -yq \
  && sudo rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
 
-## Copy local project ----
+## Copy local project -----
 
 ENV folder="/home/rstudio/"
 

@@ -1,3 +1,5 @@
+^renv$
+^renv\.lock$
 ^r-test\.Rproj$
 ^\.Rproj\.user$
 ^\.DS_Store$
@@ -14,3 +16,4 @@
 ^README\.html$
 ^Dockerfile$
 ^\.dockerignore$
+^\.Rprofile$
